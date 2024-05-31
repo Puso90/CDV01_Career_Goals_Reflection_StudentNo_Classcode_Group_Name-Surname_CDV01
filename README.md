@@ -1,87 +1,82 @@
-
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
-### Personal Information
-
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+**Personal Information**
+- Name:PUSO RAMOROA
+- Date:31/05/2024
+- Current Role/Position:Codespace Software Development Student
+- Field of Interest: Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - HTML
+    - CSS
+    - JavaScript (I need to continuosly plactice as it can get a bit complex)
+    - Digital Marketing (From before I entered this course)
+    - Graphic Designer (In a basic skill level - I know how to manuerver around graphic design tools)
+    - Product Management
+    - UI/UX design
+
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - My key interest would be to learn software development to be able to become fully competent 
+    - My Interests are in building online bussinesses and platforms
+    - Competency (Know your capabilities and being honest about what you know and do not)
+    - Honour (Not lying)
+    - Being a contrarian (Not just being a contrarian only but actually putting action behind that)
+    - Taking positive risk (Being able to assess what is possible and not, while trying to merge the two)
+    - Being Brave (Even though you could feel alone as a contrarian, you go out to explore)
+    - Passion (Doing something well without cutting corners or not at all)
+    - Friendship 
+    - Reliablity 
+    - Thoughtfulness
+    - Family
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Luno: Front End Software Engineer
+    - Luno: Brand Designer
+    - Canonical: Web frontend engineer - JS *
+      
 2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Previous experiences have been in working at news agencies and building won business
+    - Experience is major in all roles availble which I am exploring
+    - React, Angular, Python ...etc. Would be added bonuses to understand and get competent knowledge in
+    - Database, SQL knwoledge and Backend software development in general
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Get an internship or junior position for front/ backend software development position at LUNO by January 2025
+    - Pass Software Development Course at Codespace with a distinction (which should translate to knowledgeability)
+    - Gain competent knowlegde in databases, building native mobile applications
+    - Be able to create full stack websites from start to finish alone from what I learn at Codespace
+
 2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Build out yourcater, which is an online business that serves catering and home based chefs
+    - Also have aspiration of building out an agriculture platform which would help farmers save and extract more value from their produce by using the platform
+    - I accuired Digital Marketing and Graphic design skills earlier in my career 
+    - These are the skills I believe if they were to be combined with JS,HTML,CSS would be beneficial
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Learning JavaScript, HTML, CSS enough to build out automated product/ service
+    - Making time for practice to throughly achieve competency in JavaScript
+    - Work on my time management skills to improve workflow and information processing 
+      
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Understanding and being able to use sublanguages of JS, HTML, CSS
+    - Experience in bulding full stack websites and Native mobile apps
+    - Ability to recruit other engineers to work on a collaborative project
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Identify potential obstacles or challenges in reaching your goals 
+    - Complex issues with code that my experience has not encountered 
+    - Access to funding for growth and scaling the product/ service 
+      
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
-
+    - Building my product/ service as I progress within codespace
+    - The friendships that I gain here could become colleagues co-founders and or partners in ventures
+    - Getting close with the Codespace coaches and asking for guidance, insights and help
+    - Making sure my portfolio speaks volumes while leaving no stone unturned 
