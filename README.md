@@ -65,7 +65,7 @@
       
 2. **Preparation for Long-term Goals**:
     - Understanding and being able to use sub-languages of JS, HTML, CSS
-    - Experience in bulding full stack websites and Native mobile apps
+    - Experience in building full stack websites and Native mobile apps
     - Ability to recruit other engineers to work on a collaborative project
 
 ### Part 5: Reflection on Challenges and Opportunities
