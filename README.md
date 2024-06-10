@@ -9,7 +9,7 @@
 1. **Skills Analysis**:
     - HTML
     - CSS
-    - JavaScript (I need to continuosly plactice as it can get a bit complex)
+    - JavaScript (I need to continuosly practice as it can get a very complex)
     - Digital Marketing (From before I entered this course)
     - Graphic Designer (In a basic skill level - I know how to manuerver around graphic design tools)
     - Product Management
@@ -34,18 +34,18 @@
 1. **Industries and Roles Explored**:
     - Luno: Front End Software Engineer
     - Luno: Brand Designer
-    - Canonical: Web frontend engineer - JS *
+    - Huawei: Frontend developer - JS *
       
 2. **Alignment with Personal Profile**:
-    - Previous experiences have been in working at news agencies and building won business
-    - Experience is major in all roles availble which I am exploring
+    - Previous experiences have I been are in working at news agencies and building own business | yourcater.co.za(no longer operational)
+    - Experience is major(important) in all roles availble which I am exploring/ researching
     - React, Angular, Python ...etc. Would be added bonuses to understand and get competent knowledge in
     - Database, SQL knwoledge and Backend software development in general
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    - Get an internship or junior position for front/ backend software development position at LUNO by January 2025
+    - Get an internship or junior position for front development position at LUNO by January 2025
     - Pass Software Development Course at Codespace with a distinction (which should translate to knowledgeability)
     - Gain competent knowlegde in databases, building native mobile applications
     - Be able to create full stack websites from start to finish alone from what I learn at Codespace
@@ -64,7 +64,7 @@
     - Work on my time management skills to improve workflow and information processing 
       
 2. **Preparation for Long-term Goals**:
-    - Understanding and being able to use sublanguages of JS, HTML, CSS
+    - Understanding and being able to use sub-languages of JS, HTML, CSS
     - Experience in bulding full stack websites and Native mobile apps
     - Ability to recruit other engineers to work on a collaborative project
 
